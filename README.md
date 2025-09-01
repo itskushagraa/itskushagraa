@@ -55,7 +55,7 @@ My interests span machine learning and human-computer interaction, with a focus 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itskushagraa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=itskushagraa&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
