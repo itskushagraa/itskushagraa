@@ -62,15 +62,19 @@ My interests span machine learning and human-computer interaction, with a focus 
 
 <h3 align="center">Currently Working On</h3>
 
-<p align="center"><b>Diabetic Retinopathy Screening: </b>Deep learning project aimed at assisting early detection of diabetic retinopathy.</p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-15%25-green?style=for-the-badge" />
+  <b><a href="https://github.com/feathersjs/feathers" target="_blank">FeathersJS</a> MCP Server</b>
 </p>
 
-<p align="center"><b>StrayCare (Revamp): </b>CPSC 304 project reimagined into a scalable platform for global deployment, focused on volunteer coordination and community-driven stray-animal care.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge" />
+  <b>Kepler</b></br> a chess engine 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" />
 </p>
 
