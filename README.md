@@ -18,9 +18,11 @@
 
 <h3 align="center">About Me</h3>
 
-I am a Computer Science student at UBC with experience in robotics research, student-driven tech initiatives, and full-stack development. Recently, I delivered a client project by building an art gallery website end-to-end: covering backend architecture, secure email workflows, and performance optimization.
+cs student at ubc. i build things across the stack: web apps, CLI tools, game engines, cv systems. all of my projects start from a genuine problem or curiosity, which means my git is a bit all over the place (in the way i want)                                                 
+                                                                                                                     
+recently i've been gravitating toward systems programming, AI tooling, and developer infrastructure. i also do freelance swe work when the project is interesting enough      
 
-My interests span machine learning and human-computer interaction, with a focus on turning theoretical models into reliable, real-world systems. My perspective is shaped by both **engineering rigor** and a background in **music and art**, which drives me to build technology that is as creative as it is structured.
+i grew up studying music formally for about a decade, and I think it's responsible for most of my instincts around structure and attention to detail
 
 ---
 
@@ -61,14 +63,6 @@ My interests span machine learning and human-computer interaction, with a focus 
 ---
 
 <h3 align="center">Currently Working On</h3>
-
-<p align="center">
-  <b><a href="https://github.com/feathersjs/feathers" target="_blank">FeathersJS</a> MCP Server</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
-</p>
 
 <p align="center">
   <b>Kepler</b></br> a chess engine 
