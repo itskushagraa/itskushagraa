@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">About Me</h1>
-cs student at ubc. i build things across the stack: web apps, CLI tools, game engines, cv systems. all of my projects start from a genuine problem or curiosity, which means my git is a bit all over the place (in the way i want)                                                 
+cs student at ubc. i build things across the stack: web apps, CLI tools, game engines, cv systems. all of my projects start from a problem to solve or curiosity to learn, which means my git is a bit all over the place (in the way i like)                                                 
                                                                                                                      
-recently i've been gravitating toward systems programming, AI tooling, and developer infrastructure. i also do freelance swe work when the project is interesting enough      
+recently i've been leaning into systems programming, AI tooling, and developer infrastructure. i also do freelance swe work    
 
-i grew up studying music formally for about a decade, and I think it's responsible for most of my instincts around structure and attention to detail
+i grew up studying music formally for about a decade, and it's responsible for most of my instincts around structure and attention to detail
 
 </br>
 <h1 align="center">Tech Stack</h1>
