@@ -1,32 +1,16 @@
-<h1 align="center">
-  
-```text
-██╗  ██╗██╗   ██╗███████╗██╗  ██╗
-██║ ██╔╝██║   ██║██╔════╝██║  ██║
-█████╔╝ ██║   ██║███████╗███████║
-██╔═██╗ ██║   ██║╚════██║██╔══██║
-██║  ██╗╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<div align="center">
+  <img src="./header.gif" width="700"/>
+</div>
 
-</h1>
-                                                   
-
-<h3 align="center">Computer Science @ UBC • Machine Learning & AI • Full-Stack Engineering</h3>
-
----
-
-<h3 align="center">About Me</h3>
-
+<h1 align="center">About Me</h1>
 cs student at ubc. i build things across the stack: web apps, CLI tools, game engines, cv systems. all of my projects start from a genuine problem or curiosity, which means my git is a bit all over the place (in the way i want)                                                 
                                                                                                                      
 recently i've been gravitating toward systems programming, AI tooling, and developer infrastructure. i also do freelance swe work when the project is interesting enough      
 
 i grew up studying music formally for about a decade, and I think it's responsible for most of my instincts around structure and attention to detail
 
----
-
-<h3 align="center">Tech Stack</h3>
+</br>
+<h1 align="center">Tech Stack</h1>
 
 <div align="center">
 
@@ -51,18 +35,15 @@ i grew up studying music formally for about a decade, and I think it's responsib
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
-
----
-
-<h3 align="center">GitHub Stats</h3>
+</br>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-two.vercel.app?user=itskushagraa&theme=github_dark" />
 </p>
 
----
-
-<h3 align="center">Currently Working On</h3>
+</br>
+<h2 align="center">Currently Working On</h2>
 
 <p align="center">
   <b>Kepler</b></br> a chess engine 
