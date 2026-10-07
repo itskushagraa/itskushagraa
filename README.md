@@ -2,15 +2,10 @@
   <img src="./header.gif" width="500"/>
 </div>
 
-<p>i code sometimes</p>    
+<p align="center">a programmer</p>    
 
-<h2 align="center">Currently Working On</h2>
-
-<p align="center">
-  <b>Kepler</b></br>
-</p>
+<h4 align="center">Currently Working On</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" />
+  <a href="https://github.com/itskushagraa/kepler"><b>Kepler</b></a>
 </p>
-
