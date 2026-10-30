@@ -9,8 +9,9 @@
 <p align="center">
   <a href="https://github.com/itskushagraa/kepler">
     <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=itskushagraa&repo=kepler&theme=transparent&hide_border=true"
-  width="420"
-/>
+      src="https://github-stats-extended.vercel.app/api/pin/?username=itskushagraa&repo=kepler&theme=transparent&hide_border=true"
+      width="420"
+      alt="Kepler repository"
+    />
   </a>
 </p>
